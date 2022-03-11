@@ -70,9 +70,17 @@ Once it's Done you can
 ```
 twtxt -h
 twtxt tweet "Hello World"
-twtxt follow "tkanos" "https://raw.githubusercontent.com/tkanos/twtxt-files/master/twtxt.txt"
+twtxt follow tkanos https://raw.githubusercontent.com/tkanos/twtxt-files/master/twtxt.txt
 twtxt timeline
 ```
+
+You can find better feeds to follow here https://feeds.twtxt.net/feeds (or create your own here : https://feeds.twtxt.net/feeds)
+
+```
+twtxt follow HN https://feeds.twtxt.net/hacker-news/twtxt.txt
+```
+
+But if you like it you should absolutely go to : https://yarn.social/
 
 
 
