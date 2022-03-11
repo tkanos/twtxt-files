@@ -56,7 +56,7 @@ twtxt = https://buckket.org/twtxt_news.txt
 
 You can change the character_limit to 500.
 
-AND We will add two more line to that config so nanot it and add a line like :
+AND We will add 1 or 2 more line to that config so nano/vim/... it and add a line like (to the end of `[twtxt]` section):
 ```
 #pre_tweet_hook = "git -C /home/tkanos/..../twtxt-files/ pull origin master" # only necessary if you have many twtxt files in your repo
 
