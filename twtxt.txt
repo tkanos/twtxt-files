@@ -1,5 +1,1 @@
-2022-03-11T12:49:20-05:00	Hello World
-2022-03-11T12:55:00-05:00	hello @<tkanos https://raw.githubusercontent.com/tkanos/twtxt-files/master/twtxt.txt>
-2022-03-11T13:02:04-05:00	Hello @<tkanos https://twtxt.net/user/tkanos/twtxt.txt>
-2022-03-11T14:24:49-05:00	Hello @<tkanos https://twtxt.net/user/tkanos/twtxt.txt>
-2022-03-11T15:01:23-05:00	Note to myself : Need to learn how nebula works
+
